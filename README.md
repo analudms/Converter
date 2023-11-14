@@ -1,9 +1,7 @@
-<h1 align="center"> Number Analyzer 1️⃣2️⃣3️⃣4️⃣ </h1>
+<h1 align="center"> Converter 💵💰 </h1>
 
-# Sobre o projeto 🧮
-Esse projeto foi feito para fins didáticos com propósito de melhorar as minhas criações de funções no JS e estilizações CSS.
-Foi o ultimo projeto da trilha de Javascript do Guanabara no portal Curso em Vídeo.
-
+# Sobre o projeto 💲
+Esse projeto foi feito para fins didáticos na Imersão Dev do Alura, melhorei o projeto adicionando algumas funcionalidades, a própria pessoa que acessa o site pode escolher o valor a ser convertido, também criei os botões, um inicia a conversão e o outro limpa os campos para uma nova conversão ser feita, a estilização também foi criada por mim.
 </br>
 
 # Como acessar o projeto? 🤔
